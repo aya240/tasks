@@ -57,4 +57,13 @@ function four() {
                         document.getElementById("avg").innerHTML = "the avg  is" + " "  + avg;
 	    }
 }
-    //end number four    
+    //end number four
+	
+	
+	
+	(function self(){
+		"use strict";
+		var name = prompt("write your name");
+		   document.getElementById("self").innerHTML = "welcome to our page " + "  "  + name ;
+
+	}() );
