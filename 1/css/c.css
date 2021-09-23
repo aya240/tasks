@@ -1,0 +1,79 @@
+body{
+    background:#ddd;
+    margin:0px auto;
+    padding:0px;
+}
+
+
+
+nav {
+    width: 100%;
+    background:#802;
+    text-align: right;
+    
+
+  
+}
+
+nav .nav , nav #ii .vb{
+    list-style: none;
+    text-align: center;
+    padding:20px;
+    
+}
+
+
+ nav #ii .vb li{
+    font-size:  20px;
+    color:#eee;
+    cursor: pointer;
+     margin-bottom: 20px;
+     border-bottom: 1px  solid #444;
+    
+}
+
+
+ nav #ii .vi , .vi {
+    display: none;
+    
+}
+
+nav .nav li{
+    display: inline-block;
+    font-size:  20px;
+    margin-right: 17;
+    color:#eee;
+    cursor: pointer;
+    
+}
+
+
+
+nav .icon{
+      
+    background:#444;
+    color:#fff;
+    font-size:27px;
+    margin:10px;
+    border:1px solid #444;
+    padding:7px;
+  cursor: pointer;
+    
+
+    
+}
+
+
+
+
+ #se{
+      
+    background:#444;
+    width: 70%;
+     margin:20px;
+     height: 100px;
+     padding:10px;
+    
+
+    
+}
